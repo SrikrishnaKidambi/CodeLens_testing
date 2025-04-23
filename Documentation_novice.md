@@ -29,6 +29,8 @@ The project has undergone several updates based on the commit history:
 
 * **Initial Commit:** The project was initialized with the core sorting and searching functionality.
 * **README Update:** The README file was updated to provide a brief description of the project, now called "CodeLens_testing," indicating its purpose as a test for a code lens tool.
-* **Further Development:**  Several commits (including "commit 1," "testing commit," and "hi") suggest ongoing development and testing, though the specific code changes are not reflected in the current documentation scope.  These commits might represent bug fixes, performance improvements, or other refinements to the core functionality.
+* **Further Development:**  Several commits ("general commit," "hi," "testing commit," "commit 1") suggest ongoing development and testing activities, although the specific code changes aren't detailed within this documentation. These commits likely represent bug fixes, performance enhancements, or other refinements to the core functionalities.
+* **README Update:** The README.md file has been updated. The exact nature of the update is not specified in the commit message, so it could range from minor typographical corrections to substantial modifications in the project description or instructions.
+
 
 
